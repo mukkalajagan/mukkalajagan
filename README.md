@@ -28,7 +28,6 @@ Hi, I'm Jaganmohanreddy, a passionate self-taught Full Stack web developer from 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://github.com/angular/angular/blob/master/aio/src/assets/images/logos/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 - 🔭 I’m currently working on .NET / .NET Core
 - 🌱 I’m currently learning Angular / React / Vue
