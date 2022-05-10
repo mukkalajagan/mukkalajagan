@@ -6,9 +6,6 @@
 <a href="https://twitter.com/mukkalajagan" target="_blank">
   <img align="left" alt="Jaganmohanreddy | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.facebook.com/mukkalajaganmohan/" target="_blank">
-  <img align="left" alt="Jagan's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mukkalajagan.mukkalajagan)
 
