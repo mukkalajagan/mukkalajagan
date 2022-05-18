@@ -1,14 +1,14 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+Hi 👋 My name is Jaganmohanreddy Mukkala
+========================================
 
-<br />
-Hi, I'm Jaganmohanreddy, a passionate self-taught Full Stack web developer from India. I believe in sharing the knowledge with others will help one to become a true self. <br />
-<a href="https://www.linkedin.com/in/mukkalajagan/" target="_blank">
-  <img align="left" alt="Jagan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>&nbsp;
-<a href="https://twitter.com/mukkalajagan" target="_blank">
-  <img align="left" alt="Jaganmohanreddy | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>&nbsp;
-![](https://visitor-badge.glitch.me/badge?page_id=mukkalajagan.mukkalajagan)
+.NET Full Stack Developer
+-------------------------
+
+* 🌍  I'm based in Bengaluru
+* 🖥️  See my portfolio at [GitHub Pages](http://mukkalajagan.github.io/)
+* 🚀  I'm currently working on [Angular & ASP.NET Core Web API](http://mukkalajagan.github.io/)
+* 🧠  I'm learning React.js
+
 
 **Languages and Tools:**  
 
