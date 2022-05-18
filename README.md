@@ -2,18 +2,15 @@
 
 <a href="https://www.linkedin.com/in/mukkalajagan/" target="_blank">
   <img align="left" alt="Jagan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a>&nbsp;
 <a href="https://twitter.com/mukkalajagan" target="_blank">
   <img align="left" alt="Jaganmohanreddy | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+</a>&nbsp;
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mukkalajagan.mukkalajagan)
 
 <br />
 Hi, I'm Jaganmohanreddy, a passionate self-taught Full Stack web developer from India. I believe in sharing the knowledge with others will help one to become a true self.
-  
-- 💬 Ask me about anything, I am happy to help you in any possible way I can;
-- 📫 How to reach out to me: [@mukkalajagan](https://twitter.com/mukkalajagan);
 
 
 **Languages and Tools:**  
