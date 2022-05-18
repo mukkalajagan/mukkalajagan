@@ -5,10 +5,10 @@ Jaganmohanreddy Mukkala
 -------------------------
 
 
-- 🌍 I'm based in India
-- 🔭 I’m currently working on .NET / .NET Core / Angular
-- 🧠 I’m currently learning  React
-- 👯 I’m looking to collaborate on both front-end & back-End technologies
+- 🌍 Based in India
+- 🔭 Working on .NET / .NET Core / Angular
+- 🧠 Learning  React / Azure / Docker
+- 👯 Always ready to collaborate on both front-end & back-End technologies
 - 🤔 I’m looking for help with Angular / React / Vue / Node.js / ASP.NET Core
 - 💬 Ask me about ASP.NET Core / C# / Angular / React / Vue / Node.js
 - 🖥️ See my portfolio at [GitHub Pages](http://mukkalajagan.github.io/)
@@ -32,13 +32,6 @@ Jaganmohanreddy Mukkala
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 
 </p>
-
-- 🔭 I’m currently working on .NET / .NET Core / Angular
-- 🌱 I’m currently learning  React
-- 👯 I’m looking to collaborate on both front-end & back-End technologies
-- 🤔 I’m looking for help with Angular / React / Node.js / ASP.NET Core
-- 💬 Ask me about ASP.NET Core / C# / Angular / React / Node.js
-- 📫 How to reach me: [@mukkalajagan](https://twitter.com/mukkalajagan)
 
 ### 📈 My GitHub Stats
 
