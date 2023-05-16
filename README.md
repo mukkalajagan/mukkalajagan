@@ -11,7 +11,7 @@ Jaganmohanreddy Mukkala
 - 👯 Always ready to collaborate on both front-end & back-End technologies
 - 🤔 I’m looking for help with Angular / React / Vue / Node.js / ASP.NET Core
 - 💬 Ask me about ASP.NET Core / C# / Angular / React / Vue / Node.js
-- 🖥️ See my portfolio at [GitHub Pages](http://mukkalajagan.github.io/)
+- 🖥️ See my portfolio at [GitHub](https://github.com/mukkalajagan)
 - 📫 Reach me at: [@mukkalajagan](https://twitter.com/mukkalajagan)
 
 
